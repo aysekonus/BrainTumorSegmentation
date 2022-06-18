@@ -47,3 +47,9 @@ EKRAN ÇIKTISI
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/68853621/174298804-7b691654-d206-4ecf-875a-0e5562b169cb.png">
 
+
+
+
+## NOT
+---
+[Ağırlık dosyası](https://www.kaggle.com/code/ruslankl/brain-tumor-detection-v2-0-mask-r-cnn/data)
